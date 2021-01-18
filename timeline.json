@@ -1,0 +1,3201 @@
+[
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610518673",
+		"epochTime": "1610518673",
+		"time": "11:47",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610518071",
+		"epochTime": "1610518071",
+		"time": "11:37",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610517495",
+		"epochTime": "1610517495",
+		"time": "11:28",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610516850",
+		"epochTime": "1610516850",
+		"time": "11:17",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610516244",
+		"epochTime": "1610516244",
+		"time": "11:07",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610513274",
+		"epochTime": "1610513274",
+		"time": "10:17",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610512665",
+		"epochTime": "1610512665",
+		"time": "10:07",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610512068",
+		"epochTime": "1610512068",
+		"time": "09:57",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610511492",
+		"epochTime": "1610511492",
+		"time": "09:48",
+		"motorData": [
+			{
+				"voltage": 440,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610510856",
+		"epochTime": "1610510856",
+		"time": "09:37",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610510268",
+		"epochTime": "1610510268",
+		"time": "09:27",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610509662",
+		"epochTime": "1610509662",
+		"time": "09:17",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610509092",
+		"epochTime": "1610509092",
+		"time": "09:08",
+		"motorData": [
+			{
+				"voltage": 440,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610508447",
+		"epochTime": "1610508447",
+		"time": "08:57",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610508045",
+		"epochTime": "1610508045",
+		"time": "08:50",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 1,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Bold",
+					"textDecorationLine": "underline"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610507850",
+		"epochTime": "1610507850",
+		"time": "08:47",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610507289",
+		"epochTime": "1610507289",
+		"time": "08:38",
+		"motorData": [
+			{
+				"voltage": 436,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610506855",
+		"epochTime": "1610506855",
+		"time": "08:30",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 1,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Bold",
+					"textDecorationLine": "underline"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610506771",
+		"epochTime": "1610506771",
+		"time": "08:29",
+		"motorData": [
+			{
+				"voltage": 440,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0.6,
+				"mode": 0,
+				"status": 1,
+				"update": 1,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Bold",
+					"textDecorationLine": "underline"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610506651",
+		"epochTime": "1610506651",
+		"time": "08:27",
+		"motorData": [
+			{
+				"voltage": 0,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 8,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610506069",
+		"epochTime": "1610506069",
+		"time": "08:17",
+		"motorData": [
+			{
+				"voltage": 0,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 8,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610505595",
+		"epochTime": "1610505595",
+		"time": "08:09",
+		"motorData": [
+			{
+				"voltage": 0,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 1,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Bold",
+					"textDecorationLine": "underline"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 8,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610505496",
+		"epochTime": "1610505496",
+		"time": "08:08",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610504896",
+		"epochTime": "1610504896",
+		"time": "07:58",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610504269",
+		"epochTime": "1610504269",
+		"time": "07:47",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610503690",
+		"epochTime": "1610503690",
+		"time": "07:38",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610503069",
+		"epochTime": "1610503069",
+		"time": "07:27",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610502448",
+		"epochTime": "1610502448",
+		"time": "07:17",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610501884",
+		"epochTime": "1610501884",
+		"time": "07:08",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610501263",
+		"epochTime": "1610501263",
+		"time": "06:57",
+		"motorData": [
+			{
+				"voltage": 440,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610500651",
+		"epochTime": "1610500651",
+		"time": "06:47",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610500090",
+		"epochTime": "1610500090",
+		"time": "06:38",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610499475",
+		"epochTime": "1610499475",
+		"time": "06:27",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610498857",
+		"epochTime": "1610498857",
+		"time": "06:17",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610498233",
+		"epochTime": "1610498233",
+		"time": "06:07",
+		"motorData": [
+			{
+				"voltage": 438,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610497699",
+		"epochTime": "1610497699",
+		"time": "05:58",
+		"motorData": [
+			{
+				"voltage": 440,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610497099",
+		"epochTime": "1610497099",
+		"time": "05:48",
+		"motorData": [
+			{
+				"voltage": 440,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610496469",
+		"epochTime": "1610496469",
+		"time": "05:37",
+		"motorData": [
+			{
+				"voltage": 440,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610495896",
+		"epochTime": "1610495896",
+		"time": "05:28",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610495279",
+		"epochTime": "1610495279",
+		"time": "05:17",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610494655",
+		"epochTime": "1610494655",
+		"time": "05:07",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610494076",
+		"epochTime": "1610494076",
+		"time": "04:57",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610493461",
+		"epochTime": "1610493461",
+		"time": "04:47",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610492834",
+		"epochTime": "1610492834",
+		"time": "04:37",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610492264",
+		"epochTime": "1610492264",
+		"time": "04:27",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610491670",
+		"epochTime": "1610491670",
+		"time": "04:17",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.2,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610491082",
+		"epochTime": "1610491082",
+		"time": "04:08",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610490491",
+		"epochTime": "1610490491",
+		"time": "03:58",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610489834",
+		"epochTime": "1610489834",
+		"time": "03:47",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610489240",
+		"epochTime": "1610489240",
+		"time": "03:37",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610488673",
+		"epochTime": "1610488673",
+		"time": "03:27",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610488073",
+		"epochTime": "1610488073",
+		"time": "03:17",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610487452",
+		"epochTime": "1610487452",
+		"time": "03:07",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610486867",
+		"epochTime": "1610486867",
+		"time": "02:57",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610486303",
+		"epochTime": "1610486303",
+		"time": "02:48",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610485639",
+		"epochTime": "1610485639",
+		"time": "02:37",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610485066",
+		"epochTime": "1610485066",
+		"time": "02:27",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610484481",
+		"epochTime": "1610484481",
+		"time": "02:18",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610483860",
+		"epochTime": "1610483860",
+		"time": "02:07",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.2,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610483296",
+		"epochTime": "1610483296",
+		"time": "01:58",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610482660",
+		"epochTime": "1610482660",
+		"time": "01:47",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610482105",
+		"epochTime": "1610482105",
+		"time": "01:38",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610481478",
+		"epochTime": "1610481478",
+		"time": "01:27",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610480887",
+		"epochTime": "1610480887",
+		"time": "01:18",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 3.9,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610480287",
+		"epochTime": "1610480287",
+		"time": "01:08",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610479675",
+		"epochTime": "1610479675",
+		"time": "00:57",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610479072",
+		"epochTime": "1610479072",
+		"time": "00:47",
+		"motorData": [
+			{
+				"voltage": 444,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610478460",
+		"epochTime": "1610478460",
+		"time": "00:37",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610477899",
+		"epochTime": "1610477899",
+		"time": "00:28",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610477302",
+		"epochTime": "1610477302",
+		"time": "00:18",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	},
+	{
+		"isTimeLine": true,
+		"faultMsg": "",
+		"id": "1610476673",
+		"epochTime": "1610476673",
+		"time": "00:07",
+		"motorData": [
+			{
+				"voltage": 442,
+				"motor": false
+			},
+			{
+				"motorIndication": "M1",
+				"currentVal": 4.1,
+				"mode": 0,
+				"status": 1,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#00000080",
+					"fontFamily": "BrandonText-Regular"
+				}
+			},
+			{
+				"motorIndication": "M2",
+				"currentVal": 0,
+				"mode": 0,
+				"status": 0,
+				"update": 0,
+				"motor": true,
+				"motorBgStyle": {
+					"color": "#f4c900",
+					"fontFamily": "BrandonText-Regular"
+				}
+			}
+		],
+		"faultId": null,
+		"pktType": "V",
+		"vtgPhaseFault": 0,
+		"pillStyleInfo": {
+			"backgroundColor": "#ffffff",
+			"borderColor": "#00000040",
+			"color": "#00000080"
+		}
+	}
+]
